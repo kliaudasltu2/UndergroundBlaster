@@ -1,0 +1,110 @@
+
+blasterrun.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Warrior_Run
+  rotate: false
+  xy: 0, 550
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 0
+0_Warrior_Run
+  rotate: false
+  xy: 0, 275
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 1
+0_Warrior_Run
+  rotate: false
+  xy: 275, 550
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 2
+0_Warrior_Run
+  rotate: false
+  xy: 0, 0
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 3
+0_Warrior_Run
+  rotate: false
+  xy: 275, 275
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 4
+0_Warrior_Run
+  rotate: false
+  xy: 550, 550
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 5
+0_Warrior_Run
+  rotate: false
+  xy: 275, 0
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 6
+0_Warrior_Run
+  rotate: false
+  xy: 550, 275
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 7
+0_Warrior_Run
+  rotate: false
+  xy: 825, 550
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 8
+0_Warrior_Run
+  rotate: false
+  xy: 550, 0
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 9
+0_Warrior_Run
+  rotate: false
+  xy: 825, 275
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 10
+0_Warrior_Run
+  rotate: false
+  xy: 1100, 550
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 11
+0_Warrior_Run
+  rotate: false
+  xy: 825, 0
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 12
+0_Warrior_Run
+  rotate: false
+  xy: 1100, 275
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 13
+0_Warrior_Run
+  rotate: false
+  xy: 1375, 550
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: 14

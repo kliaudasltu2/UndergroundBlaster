@@ -1,0 +1,154 @@
+
+skeleton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dying
+  rotate: false
+  xy: 1, 1029
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+hurtBack
+  rotate: false
+  xy: 1, 515
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+hurtFront
+  rotate: false
+  xy: 1, 1
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hurtLeft
+  rotate: false
+  xy: 1, 1029
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+hurtRight
+  rotate: false
+  xy: 1, 515
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+idleBack
+  rotate: false
+  xy: 1, 1
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+idleFront
+  rotate: false
+  xy: 1, 1029
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+idleLeft
+  rotate: false
+  xy: 1, 515
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+idleRight
+  rotate: false
+  xy: 1, 1
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+slashBack
+  rotate: false
+  xy: 1, 1029
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+slashFront
+  rotate: false
+  xy: 1, 515
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+slashLeft
+  rotate: false
+  xy: 1, 1
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+
+skeleton5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walkingBack
+  rotate: false
+  xy: 1, 771
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+walkingFront
+  rotate: false
+  xy: 1, 1
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+
+skeleton6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walkingLeft
+  rotate: false
+  xy: 1, 771
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+walkingRight
+  rotate: false
+  xy: 1, 1
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+
+skeleton7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+slashRight
+  rotate: false
+  xy: 1, 1
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1

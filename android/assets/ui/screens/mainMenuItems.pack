@@ -1,0 +1,38 @@
+
+mainMenuItems.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walking
+  rotate: false
+  xy: 1, 1
+  size: 1980, 1650
+  orig: 1980, 1650
+  offset: 0, 0
+  index: -1
+
+mainMenuItems2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 1, 451
+  size: 504, 564
+  orig: 504, 564
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 507, 503
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 507, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

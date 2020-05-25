@@ -1,0 +1,19 @@
+
+explosion.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bomb
+  rotate: false
+  xy: 1, 1
+  size: 516, 1968
+  orig: 516, 1968
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 519, 1201
+  size: 1024, 768
+  orig: 1024, 768
+  offset: 0, 0
+  index: -1

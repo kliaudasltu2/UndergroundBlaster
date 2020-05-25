@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="20" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="14" nextobjectid="120">
+ <tileset firstgid="1" source="tileset_dungeon.tsx"/>
+ <layer id="2" name="graphics" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eAFjZGBgYKISZgaawwnEikCsRCFWBurnBmKQeZpArEUh1gbqHzWP/HAciPCzBMaZFZHxToz7rIFm2VDRPFLSJDHuI8c8QaB/hAhgFaA8CBNSJwxUAwOMQAaucgFmHi55UDmADkD5GJ//dPDIg/ItOiBkHj67iDVPFWipGhCrAzE1zNMFmqMHxPpUMs8UaI4ZEJuTYR4x6QZXekFOJwBQ7zBJ
+  </data>
+ </layer>
+ <layer id="3" name="additional" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eAFjYBgFoyEwGgKjIUD7EJBgYDhArC0cxCokoI6fgDyyNB8DgwIyHxcb6I8BAwIMDA24LGfHJUFDcQBTogHN
+  </data>
+ </layer>
+ <objectgroup id="5" name="arenaObstacles">
+  <object id="111" x="352" y="384" width="287.667" height="32"/>
+  <object id="113" x="0" y="0" width="640" height="32"/>
+  <object id="115" x="0" y="32" width="32" height="384"/>
+  <object id="116" x="32" y="384" width="256" height="32"/>
+  <object id="119" x="608" y="32" width="32" height="352"/>
+ </objectgroup>
+ <objectgroup id="4" name="hallObstacles">
+  <object id="4" x="417.125" y="518.25" width="28.875" height="22.625"/>
+  <object id="95" x="453.913" y="451.957" width="22.0435" height="23.4783"/>
+  <object id="96" x="226.182" y="513.818" width="91.6364" height="92"/>
+  <object id="99" x="321.909" y="449.909" width="27.9091" height="27.7273"/>
+  <object id="100" x="97.25" y="449.625" width="29.75" height="24.75"/>
+  <object id="91" x="544" y="448" width="23.9091" height="159.75"/>
+  <object id="89" x="91.3333" y="608" width="457.273" height="15.6667"/>
+  <object id="88" x="80.9091" y="448.114" width="15.0341" height="159.922"/>
+  <object id="109" x="80.9091" y="416" width="207.091" height="32"/>
+  <object id="110" x="352" y="416" width="216" height="32"/>
+ </objectgroup>
+ <objectgroup id="6" name="enemies">
+  <object id="33" x="224" y="64" width="32" height="32"/>
+  <object id="73" x="128" y="64" width="32" height="32"/>
+  <object id="74" x="64" y="224" width="32" height="32"/>
+  <object id="75" x="64" y="320" width="32" height="32"/>
+  <object id="76" x="544" y="128" width="32" height="32"/>
+  <object id="77" x="544" y="224" width="32" height="32"/>
+  <object id="78" x="544" y="320" width="32" height="32"/>
+  <object id="79" x="320" y="64" width="32" height="32"/>
+  <object id="80" x="416" y="64" width="32" height="32"/>
+  <object id="81" x="512" y="64" width="32" height="32"/>
+  <object id="98" x="64" y="128" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup id="8" name="helper"/>
+ <objectgroup id="7" name="trigger">
+  <object id="47" x="288" y="384" width="64" height="9.3333"/>
+ </objectgroup>
+ <objectgroup id="10" name="blasterSpot">
+  <object id="56" x="96" y="512" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup id="9" name="camera">
+  <object id="51" x="320" y="505.5" width="16" height="6.5"/>
+ </objectgroup>
+ <objectgroup id="12" name="helperSpot">
+  <object id="70" x="249.333" y="424.667" width="32" height="32"/>
+  <object id="71" x="383.333" y="425.333" width="32" height="32"/>
+  <object id="72" x="168.667" y="426.667" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup id="13" name="midleofarena">
+  <object id="103" x="320" y="192.125" width="14.4375" height="18.125"/>
+ </objectgroup>
+</map>

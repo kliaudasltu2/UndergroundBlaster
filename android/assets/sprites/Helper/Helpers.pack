@@ -1,0 +1,156 @@
+
+Helpers.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cGreetingsBack
+  rotate: false
+  xy: 1, 1223
+  size: 2030, 609
+  orig: 2030, 609
+  offset: 0, 0
+  index: -1
+cGreetingsFront
+  rotate: false
+  xy: 1, 612
+  size: 2030, 609
+  orig: 2030, 609
+  offset: 0, 0
+  index: -1
+cGreetingsSide
+  rotate: false
+  xy: 1, 1
+  size: 2030, 609
+  orig: 2030, 609
+  offset: 0, 0
+  index: -1
+
+Helpers2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cWalkBack
+  rotate: false
+  xy: 1, 1223
+  size: 2030, 609
+  orig: 2030, 609
+  offset: 0, 0
+  index: -1
+cWalkFront
+  rotate: false
+  xy: 1, 612
+  size: 2030, 609
+  orig: 2030, 609
+  offset: 0, 0
+  index: -1
+cWalkSide
+  rotate: false
+  xy: 1, 1
+  size: 2030, 609
+  orig: 2030, 609
+  offset: 0, 0
+  index: -1
+
+Helpers3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+aGreetingsBack
+  rotate: false
+  xy: 1, 1055
+  size: 1750, 525
+  orig: 1750, 525
+  offset: 0, 0
+  index: -1
+aGreetingsFront
+  rotate: false
+  xy: 1, 528
+  size: 1750, 525
+  orig: 1750, 525
+  offset: 0, 0
+  index: -1
+aGreetingsSide
+  rotate: false
+  xy: 1, 1
+  size: 1750, 525
+  orig: 1750, 525
+  offset: 0, 0
+  index: -1
+
+Helpers4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arGreetingsBack
+  rotate: false
+  xy: 1, 1055
+  size: 1750, 525
+  orig: 1750, 525
+  offset: 0, 0
+  index: -1
+arGreetingsFront
+  rotate: false
+  xy: 1, 528
+  size: 1750, 525
+  orig: 1750, 525
+  offset: 0, 0
+  index: -1
+arGreetingsSide
+  rotate: false
+  xy: 1, 1
+  size: 1750, 525
+  orig: 1750, 525
+  offset: 0, 0
+  index: -1
+
+Helpers5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arWalkBack
+  rotate: false
+  xy: 1, 1055
+  size: 1750, 525
+  orig: 1750, 525
+  offset: 0, 0
+  index: -1
+arWalkFront
+  rotate: false
+  xy: 1, 528
+  size: 1750, 525
+  orig: 1750, 525
+  offset: 0, 0
+  index: -1
+arWalkSide
+  rotate: false
+  xy: 1, 1
+  size: 1750, 525
+  orig: 1750, 525
+  offset: 0, 0
+  index: -1
+
+Helpers6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+aWalkBack
+  rotate: false
+  xy: 1, 1055
+  size: 1750, 525
+  orig: 1750, 525
+  offset: 0, 0
+  index: -1
+aWalkFront
+  rotate: false
+  xy: 1, 528
+  size: 1750, 525
+  orig: 1750, 525
+  offset: 0, 0
+  index: -1
+aWalkSide
+  rotate: false
+  xy: 1, 1
+  size: 1750, 525
+  orig: 1750, 525
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,172 @@
+
+Blaster.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hurtBack
+  rotate: false
+  xy: 1, 993
+  size: 1650, 990
+  orig: 1650, 990
+  offset: 0, 0
+  index: -1
+hurtFront
+  rotate: false
+  xy: 1, 1
+  size: 1650, 990
+  orig: 1650, 990
+  offset: 0, 0
+  index: -1
+
+Blaster2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hurtLeft
+  rotate: false
+  xy: 1, 993
+  size: 1650, 990
+  orig: 1650, 990
+  offset: 0, 0
+  index: -1
+hurtRight
+  rotate: false
+  xy: 1, 1
+  size: 1650, 990
+  orig: 1650, 990
+  offset: 0, 0
+  index: -1
+
+Blaster3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+runningBack
+  rotate: false
+  xy: 1, 993
+  size: 1650, 990
+  orig: 1650, 990
+  offset: 0, 0
+  index: -1
+runningFront
+  rotate: false
+  xy: 1, 1
+  size: 1650, 990
+  orig: 1650, 990
+  offset: 0, 0
+  index: -1
+
+Blaster4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+runningLeft
+  rotate: false
+  xy: 1, 993
+  size: 1650, 990
+  orig: 1650, 990
+  offset: 0, 0
+  index: -1
+runningRight
+  rotate: false
+  xy: 1, 1
+  size: 1650, 990
+  orig: 1650, 990
+  offset: 0, 0
+  index: -1
+
+Blaster5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diedBack
+  rotate: false
+  xy: 1, 1
+  size: 1980, 1650
+  orig: 1980, 1650
+  offset: 0, 0
+  index: -1
+
+Blaster6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diedFront
+  rotate: false
+  xy: 1, 1
+  size: 1980, 1650
+  orig: 1980, 1650
+  offset: 0, 0
+  index: -1
+
+Blaster7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diedLeft
+  rotate: false
+  xy: 1, 1
+  size: 1980, 1650
+  orig: 1980, 1650
+  offset: 0, 0
+  index: -1
+
+Blaster8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diedRight
+  rotate: false
+  xy: 1, 1
+  size: 1980, 1650
+  orig: 1980, 1650
+  offset: 0, 0
+  index: -1
+
+Blaster9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+idleBack
+  rotate: false
+  xy: 1, 1
+  size: 1980, 1650
+  orig: 1980, 1650
+  offset: 0, 0
+  index: -1
+
+Blaster10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+idleFront
+  rotate: false
+  xy: 1, 1
+  size: 1980, 1650
+  orig: 1980, 1650
+  offset: 0, 0
+  index: -1
+
+Blaster11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+idleLeft
+  rotate: false
+  xy: 1, 1
+  size: 1980, 1650
+  orig: 1980, 1650
+  offset: 0, 0
+  index: -1
+
+Blaster12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+idleRight
+  rotate: false
+  xy: 1, 1
+  size: 1980, 1650
+  orig: 1980, 1650
+  offset: 0, 0
+  index: -1

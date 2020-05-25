@@ -1,0 +1,75 @@
+
+silver.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Silver
+  rotate: false
+  xy: 1, 287
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: 21
+Silver
+  rotate: false
+  xy: 1, 144
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: 22
+Silver
+  rotate: false
+  xy: 144, 287
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: 30
+Silver
+  rotate: false
+  xy: 1, 1
+  size: 126, 141
+  orig: 126, 141
+  offset: 0, 0
+  index: 23
+Silver
+  rotate: false
+  xy: 143, 144
+  size: 126, 141
+  orig: 126, 141
+  offset: 0, 0
+  index: 29
+Silver
+  rotate: false
+  xy: 286, 287
+  size: 107, 141
+  orig: 107, 141
+  offset: 0, 0
+  index: 24
+Silver
+  rotate: false
+  xy: 129, 1
+  size: 107, 141
+  orig: 107, 141
+  offset: 0, 0
+  index: 28
+Silver
+  rotate: false
+  xy: 271, 144
+  size: 66, 141
+  orig: 66, 141
+  offset: 0, 0
+  index: 25
+Silver
+  rotate: false
+  xy: 395, 287
+  size: 66, 141
+  orig: 66, 141
+  offset: 0, 0
+  index: 27
+Silver
+  rotate: false
+  xy: 238, 1
+  size: 27, 141
+  orig: 27, 141
+  offset: 0, 0
+  index: 26

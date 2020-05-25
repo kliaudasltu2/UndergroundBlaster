@@ -1,0 +1,215 @@
+
+Darkwitch.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+AttackingBack
+  rotate: false
+  xy: 1, 1794
+  size: 2028, 253
+  orig: 2028, 253
+  offset: 0, 0
+  index: -1
+AttackingFront
+  rotate: false
+  xy: 1, 1539
+  size: 2028, 253
+  orig: 2028, 253
+  offset: 0, 0
+  index: -1
+AttackingLeft
+  rotate: false
+  xy: 1, 1284
+  size: 2028, 253
+  orig: 2028, 253
+  offset: 0, 0
+  index: -1
+AttackingRight
+  rotate: false
+  xy: 1, 1029
+  size: 2028, 253
+  orig: 2028, 253
+  offset: 0, 0
+  index: -1
+IdleBack
+  rotate: false
+  xy: 1, 259
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+DyingBack
+  rotate: false
+  xy: 1, 1
+  size: 1536, 256
+  orig: 1536, 256
+  offset: 0, 0
+  index: -1
+Orb
+  rotate: false
+  xy: 1539, 615
+  size: 364, 412
+  orig: 364, 412
+  offset: 0, 0
+  index: -1
+
+Darkwitch2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+DyingFront
+  rotate: false
+  xy: 1, 1545
+  size: 1536, 256
+  orig: 1536, 256
+  offset: 0, 0
+  index: -1
+DyingLeft
+  rotate: false
+  xy: 1, 1287
+  size: 1536, 256
+  orig: 1536, 256
+  offset: 0, 0
+  index: -1
+DyingRight
+  rotate: false
+  xy: 1, 1029
+  size: 1536, 256
+  orig: 1536, 256
+  offset: 0, 0
+  index: -1
+HurtBack
+  rotate: false
+  xy: 1, 515
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+HurtFront
+  rotate: false
+  xy: 1, 1
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+
+Darkwitch3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+HurtLeft
+  rotate: false
+  xy: 1, 1029
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+HurtRight
+  rotate: false
+  xy: 1, 515
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+RunningBack
+  rotate: false
+  xy: 1, 1
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+
+Darkwitch4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunningFront
+  rotate: false
+  xy: 1, 1029
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+RunningLeft
+  rotate: false
+  xy: 1, 515
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+RunningRight
+  rotate: false
+  xy: 1, 1
+  size: 1536, 512
+  orig: 1536, 512
+  offset: 0, 0
+  index: -1
+
+Darkwitch5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+IdleFront
+  rotate: false
+  xy: 1, 771
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+IdleLeft
+  rotate: false
+  xy: 1, 1
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+
+Darkwitch6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+IdleRight
+  rotate: false
+  xy: 1, 771
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+WalkingBack
+  rotate: false
+  xy: 1, 1
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+
+Darkwitch7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkingFront
+  rotate: false
+  xy: 1, 771
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+WalkingLeft
+  rotate: false
+  xy: 1, 1
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
+
+Darkwitch8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkingRight
+  rotate: false
+  xy: 1, 1
+  size: 1536, 768
+  orig: 1536, 768
+  offset: 0, 0
+  index: -1
